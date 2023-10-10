@@ -6,6 +6,6 @@ Esto funcionará para crear y ejecutar contenedores basados en la configuración
 ```
 docker compose up -d
 ```
-1. "docker-compose": Este comando se utiliza para gestionar aplicaciones multi-contenedor definidas en un archivo Docker Compose.
-2. "up": se utiliza para crear y ejecutar los contenedores según la configuración definida en el archivo Docker Compose.
-3. "-d" (o --detach): Esta opción indica a Docker que debe ejecutar los contenedores en segundo plano (en modo "detach"). Esto significa que los contenedores se ejecutarán en segundo plano y no bloquearán la terminal actual. Podemos seguir utilizando la terminal para ejecutar otros comandos sin interrupción.
+- "docker-compose": Este comando se utiliza para gestionar aplicaciones multi-contenedor definidas en un archivo Docker Compose.
+- "up": se utiliza para crear y ejecutar los contenedores según la configuración definida en el archivo Docker Compose.
+- "-d" (o --detach): Esta opción indica a Docker que debe ejecutar los contenedores en segundo plano (en modo "detach"). Esto significa que los contenedores se ejecutarán en segundo plano y no bloquearán la terminal actual. Podemos seguir utilizando la terminal para ejecutar otros comandos sin interrupción.
