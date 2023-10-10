@@ -27,10 +27,11 @@ Una vez dentro del Shell de nuestro contenedor tenemos todo listo para ejecutar 
 root@eeddfdd0a79e:/usr/app/src# python3 mainAppCopia.py
 ```
 ##### Ejecución del programa *mainAppCopia.py*
-Cuando ejecutamos el programa, sí el programa nos pregunta la carpeta en la que se quiere crear y almacenar significa que el programa logra hacer la conexión con el contenedor de nuestra base de datos (MySQL)
+Cuando ejecutamos el programa, sí el programa nos pregunta la carpeta en la que se quiere crear y almacenar significa que el programa logra hacer la conexión con el contenedor de nuestra base de datos (MySQL).
 ![image](https://github.com/CarlosOdetteDLCL080301/pruebaDocker_Filmoteca/assets/54251397/768b393b-1d46-4e43-88c4-00b5d847bbeb)
 
-Entonces al momento de ingresar el nombre de esta nueva carpeta, nos mostrará el registro correcto o erroneo de nuestro programa
+Entonces al momento de ingresar el nombre de esta nueva carpeta, nos mostrará el registro correcto o erroneo de nuestro programa.
+
 ![image](https://github.com/CarlosOdetteDLCL080301/pruebaDocker_Filmoteca/assets/54251397/3caf9809-e9cf-4506-8632-d4558234b385)
 
 En este punto ya tenemos la ejecución del programa correctamente, ya que nos creó los archivos en la carpeta designada en <em>inicializaApp.py</em> ,esta dirección almacena nuestra nueva carpeta y la adaptación del nombre.
