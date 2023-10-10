@@ -1,2 +1,2 @@
 FROM mysql:latest
-COPY ./prueba.sql /docker-entrypoint-initdb.d/
+COPY ./creaTablasCopiadoDeImagenes.sql /docker-entrypoint-initdb.d/

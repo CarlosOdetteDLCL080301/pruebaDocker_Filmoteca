@@ -9,7 +9,7 @@ from pathlib import Path
 # PATH de la carpeta RAIZ con archivos y carpetas a copiar.
 # este path está restringido a 700 caracteres.
 #pathRaiz = "/home/gerardo/repogit/copia_imagenes/copiador/rÁizDePruebas08"
-pathRaiz = "C:\\Users\\CONTI SS\\Desktop\\originales\\Application_original"
+pathRaiz = "/usr/app/src/archivos"
 #pathRaiz = "/home/gerardo/repogit/renombra_imagenes/renombrador/rÁizDePruebas 16"
 #pathRaiz = "/home/gerardo/vmware/FotoMontajes"
 #pathRaiz = "/home/gerardo/vmware/rÁizCopiáDePruebas"
@@ -18,7 +18,7 @@ pathRaiz = "C:\\Users\\CONTI SS\\Desktop\\originales\\Application_original"
 # harán las copias de archivos (cambiando sus nombres).
 # El nombre de la SUBCARPETA lo pide el programa durante su inicialización.
 #pathDestino = "/home/gerardo/repogit/copia_imagenes/copiador/conti_imagenesCentroDeDoc"
-pathDestino = "C:\\Users\\CONTI SS\\Desktop\\clonados"
+pathDestino = "/usr/app/src/copias"
 
 # Datos de la conexion QUE ES NECESARIO DEFINIR SUS VALORES:
 usuario = "root"

@@ -4,4 +4,7 @@ RUN pip install mysql-connector-python
 
 WORKDIR /usr/app/src
 
-COPY prueba.py ./
+COPY *.py ./
+
+RUN mkdir archivos
+RUN mkdir copias
