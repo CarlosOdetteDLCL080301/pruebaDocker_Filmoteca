@@ -54,6 +54,7 @@ Para entrar al entorno de MySQL, es necesario acceder de la siguiente forma, en 
 bash-4.4# mysql -u root -p
 ```
 El comando anterior, nos solicitará nuestra contraseña, en nuestro caso en las variables de entorno declaramos que la contraseña del usuario root, es *root*, una vez ejecutado nos dara acceso a MySQL. Como se muestra en la imagen a continuación:
+
 ![image](https://github.com/CarlosOdetteDLCL080301/pruebaDocker_Filmoteca/assets/54251397/8bab4d7b-fae3-4b25-911c-cd5882bab222)
 ##### Comprobar que se crearon correctamente las tablas
 Si queremos comprobar que nuestra base de datos y sus respectivas tablas se crearon correctamente, entonces procedemos a visualizar el contenido de la base de datos, para comprobar que coincida con el nuestro.
