@@ -8,3 +8,5 @@ COPY *.py ./
 
 RUN mkdir archivos
 RUN mkdir copias
+
+COPY pruebas/ /usr/app/src/archivos/
